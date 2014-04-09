@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/thruthesky/sub
+[submodule "widget/sample-widget"]
+	path = widget/sample-widget
+	url = https://github.com/thruthesky/sample-widget
